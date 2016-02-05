@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">AndroidTV Settings dialog</string>
+
+  <string name="languages">Languages</string>
+
+  <string-array name="array_languages">
+    <item>English</item>
+    <item>Français</item>
+    <item>العربية</item>
+  </string-array>
+</resources>
